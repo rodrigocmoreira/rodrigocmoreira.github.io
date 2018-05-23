@@ -1,4 +1,4 @@
-baseURL = "http://rodrigocmoreira.github.io/"
+baseURL = "https://rodrigocmoreira.github.io/"
 languageCode = "en-us"
 title = "Rodrigo Cardoso Moreira"
 theme = "minimal"
