@@ -12,6 +12,12 @@
   </url>
   
   <url>
+    <loc>https://rodrigocmoreira.github.io/</loc>
+    <lastmod>2018-05-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://rodrigocmoreira.github.io/tags/.net/</loc>
     <lastmod>2018-05-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -64,12 +70,6 @@
   
   <url>
     <loc>https://rodrigocmoreira.github.io/tags/</loc>
-    <lastmod>2018-05-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://rodrigocmoreira.github.io/</loc>
     <lastmod>2018-05-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

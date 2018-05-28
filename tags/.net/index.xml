@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>.Net on simple</title>
+    <title>.Net on #dev</title>
     <link>https://rodrigocmoreira.github.io/tags/.net/</link>
-    <description>Recent content in .Net on simple</description>
+    <description>Recent content in .Net on #dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 25 May 2018 00:00:00 +0000</lastBuildDate>
@@ -17,7 +17,7 @@
       <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
       
       <guid>https://rodrigocmoreira.github.io/post/hello-world/</guid>
-      <description>Introduction to myself Hi! I am Rodrigo Cardoso Moreira a software developer since 2004, I&amp;rsquo;ve born in 1985, so I am developer for a good part of my time. I thought that now it&amp;rsquo;s the rigth time to start to share some of my experiences and also learn during this process. I would like to advice that the content of this blogs are related must on my point of view and also my understanding of the read of great authors I will probably use on my posts as reference.</description>
+      <description>Introduction to myself Hi! I am Rodrigo Cardoso Moreira a software developer since 2004, I&amp;rsquo;ve born in 1985, so I am a developer for a good part of my lifetime. I thought that now it&amp;rsquo;s the right time to start to share some of my experiences and also learn during this process. I would like to advise that the content of this blogs are related to my point of view and also my understanding of the read of great authors I will probably use on my posts as reference.</description>
     </item>
     
   </channel>
