@@ -1,12 +1,12 @@
 baseURL = "https://rodrigocmoreira.github.io/"
 languageCode = "en-us"
-title = "Rodrigo Cardoso Moreira"
+title = "simple"
 theme = "minimal"
 disqusShortname = "username" # delete this to disable disqus comments
 googleAnalytics = ""
 
 [params]
-    author = "Calin Tataru"
+    author = "Rodrigo Cardoso Moreira"
     description = "Personal blog theme powered by Hugo"
     githubUsername = "#"
     accent = "red"
