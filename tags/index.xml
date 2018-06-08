@@ -39,6 +39,24 @@
     </item>
     
     <item>
+      <title>Microservice</title>
+      <link>https://rodrigocmoreira.github.io/tags/microservice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rodrigocmoreira.github.io/tags/microservice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nock</title>
+      <link>https://rodrigocmoreira.github.io/tags/nock/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rodrigocmoreira.github.io/tags/nock/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Node.js</title>
       <link>https://rodrigocmoreira.github.io/tags/node.js/</link>
       <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
@@ -57,11 +75,29 @@
     </item>
     
     <item>
+      <title>Sinon</title>
+      <link>https://rodrigocmoreira.github.io/tags/sinon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rodrigocmoreira.github.io/tags/sinon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Software Architecture</title>
       <link>https://rodrigocmoreira.github.io/tags/software-architecture/</link>
       <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
       
       <guid>https://rodrigocmoreira.github.io/tags/software-architecture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tdd</title>
+      <link>https://rodrigocmoreira.github.io/tags/tdd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rodrigocmoreira.github.io/tags/tdd/</guid>
       <description></description>
     </item>
     

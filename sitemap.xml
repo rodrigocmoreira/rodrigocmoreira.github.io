@@ -3,6 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://rodrigocmoreira.github.io/project/labirinto-scraper/</loc>
+  </url>
+  
+  <url>
     <loc>https://rodrigocmoreira.github.io/project/sgt-fields/</loc>
   </url>
   
@@ -41,6 +45,16 @@
   </url>
   
   <url>
+    <loc>https://rodrigocmoreira.github.io/tags/microservice/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rodrigocmoreira.github.io/tags/nock/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://rodrigocmoreira.github.io/tags/node.js/</loc>
     <lastmod>2018-05-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -63,6 +77,11 @@
   </url>
   
   <url>
+    <loc>https://rodrigocmoreira.github.io/tags/sinon/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://rodrigocmoreira.github.io/tags/software-architecture/</loc>
     <lastmod>2018-05-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -71,6 +90,11 @@
   <url>
     <loc>https://rodrigocmoreira.github.io/tags/</loc>
     <lastmod>2018-05-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rodrigocmoreira.github.io/tags/tdd/</loc>
     <priority>0</priority>
   </url>
   
